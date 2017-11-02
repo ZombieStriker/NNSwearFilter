@@ -1,0 +1,14 @@
+1.0.4
+	Added:"T*ts","P*ssy","wh*re","sl*t","c*m","g*y" and "v*j" (misspelling of "V*g")
+
+1.0.3
+	Reduced config size, as supported by NNAPIv1.0.4
+	Added messages.yml
+	
+
+1.0.2
+	Added new NNAPI v1.0.2 support
+	Fixed dependancy downloader
+
+1.0.0
+init

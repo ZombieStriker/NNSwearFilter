@@ -1,0 +1,15 @@
+main: me.zombie_striker.nnsf.Main
+version: 1.0.4
+name: NNSwearFilter
+commands:
+  nnsf:
+    description: Create images using blocks
+permissions:
+   nnswearfilter.*:
+     description: Gives access to all NNSwearWord commands
+     children:
+       nnswearfilter.bypass: true
+       nnswearfilter.learn: true
+softdepend: [NeuralNetworkAPI]
+author:
+   Zombie_Striker
